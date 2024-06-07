@@ -1,4 +1,4 @@
-# Extraindo Dados do Google Ads com Python! 🚀
+# Extraindo Dados utilizando a API Google Ads com Python! 🚀
 
   - Documentação Google ADS API: https://developers.google.com/google-ads/api/docs/start?hl=pt-br
 
