@@ -1,5 +1,7 @@
 # Extraindo Dados do Google Ads com Python! 🚀
 
+  - Documentação Google ADS API: https://developers.google.com/google-ads/api/docs/start?hl=pt-br
+
 Este script foi desenvolvido em Python para extrair dados do Google Ads de forma automatizada. Ele se conecta à API do Google Ads utilizando credenciais armazenadas, define um período de análise de 365 dias a partir da data atual, e executa uma consulta para obter dados detalhados sobre campanhas e grupos de anúncios, incluindo métricas como cliques, custo, impressões, e muito mais.
 
 Os dados retornados pela API são processados e armazenados em um DataFrame do Pandas, facilitando a análise e manipulação posterior. Esse processo automatizado não só economiza tempo, mas também garante a eficiência e precisão na coleta de grandes volumes de dados. Utilizei tecnologias como Python, a API do Google Ads e Pandas para alcançar esses resultados. Este script é uma ferramenta poderosa para qualquer profissional de marketing que busca insights profundos e detalhados sobre suas campanhas de Google Ads.
